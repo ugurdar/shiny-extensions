@@ -11,6 +11,7 @@
 
 ## Useful Links
 - [bslib navigate sidebar](https://stackoverflow.com/questions/78143498/how-to-style-navigable-page-sidebar-in-shiny-using-bslib)
+- [Profiling app - Appsilon](https://www.appsilon.com/post/a-deep-dive-into-profiling-tools?utm_source=community&utm_medium=shinyweekly)
 
 ### Reactivity
 - [R6 - Comminication btw modules trigger and depend](https://forum.posit.co/t/good-way-to-create-a-reactive-aware-r6-class/84890/9)
